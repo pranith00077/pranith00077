@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hero 👋
 
-<!--
-**pranith00077/pranith00077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 I am a Unity Game Developer and Front-End Developer.
 
-Here are some ideas to get you started:
+I build games for:
+- PC
+- Mobile
+- WebGL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also work with:
+- Unity
+- C#
+- HTML
+- CSS
+- JavaScript
+
+## 🎮 Play My Game
+
+👉 [Click here to play my games](https://unitygames.vercel.app)
+
+## 💻 Skills
+
+Unity | C# | Game Development | WebGL | Front-End Development | HTML | CSS | JavaScript
