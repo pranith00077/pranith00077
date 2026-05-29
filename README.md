@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b)](https://github.com/YOUR-USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/YOUR-USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b)](https://github.com/pranith00077)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/prantih00077)
 
 </div>
 
