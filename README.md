@@ -164,17 +164,18 @@
 
 | 🎮 Project | 🖥️ Platform | 🛠️ Tech | 🔗 Link | ✅ Status |
 |:-----------|:-----------:|:--------|:-------:|:---------:|
-| Game Project #1 | PC / WebGL | Unity · C# | [Play ▶](PASTE-LINK) | ✅ Live |
-| Game Project #2 | Mobile | Unity · C# | [View 👁](PASTE-LINK) | ✅ Live |
-| Game Project #3 | WebGL | Unity · C# | [Soon 🔧](PASTE-LINK) | 🔧 Building |
+| FlagRaid | PC / WebGL | Unity · C# | [Play ▶](https://unitygames.vercel.app/FlagRadiWeb/index.html) | ✅ Live |
+| SlientVillage |PC / WebGL | Unity · C# | [View 👁]([PASTE-LINK](https://unitygames.vercel.app/SilentVillage1/index.html) | ✅ Live |
+| SlientVillage |PC / WebGL | Unity · C# | [View 👁]([PASTE-LINK](https://unitygames.vercel.app/SnookerKing/index.html) | ✅ Live |
+
 
 ### 🌐 Front-End Projects
 
 | 🌐 Project | 📁 Type | 🛠️ Tech | 🔗 Link | ✅ Status |
 |:-----------|:-------:|:--------|:-------:|:---------:|
-| Web Project #1 | Responsive Page | HTML · CSS · JS | [Visit 🔗](PASTE-LINK) | ✅ Live |
-| Web Project #2 | UI Layout | HTML · CSS | [Visit 🔗](PASTE-LINK) | ✅ Live |
-| Web Project #3 | Interactive UI | HTML · CSS · JS | [Soon 🔧](PASTE-LINK) | 🔧 Building |
+| Games Website | Responsive Page | HTML · CSS · JS | [Visit 🔗](https://unitygames.vercel.app) | ✅ Live |
+| Flames Check | UI Layout | HTML · CSS | [Visit 🔗](https://flamesgame1.vercel.app/) | ✅ Live |
+
 
 > 📝 *Replace project names, descriptions, and links with your actual projects!*
 
@@ -202,6 +203,6 @@
 <!-- FOOTER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:2d1b69,60:1a0533,100:0D0D1A&height=130&section=footer&animation=fadeIn" />
 
-<sub>⭐ <b>Star my repositories if you find them useful!</b> · Made with ❤️ by <a href="https://github.com/pranith00077">Pranith</a></sub>
+<sub>⭐ <b>Star my repositories if you find them useful!</b> · Made with ❤️ by <a href="https://github.com/pranith00077">Praneeth</a></sub>
 
 </div>
