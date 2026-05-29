@@ -1,103 +1,125 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pranith&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Unity%20Game%20Developer%20%7C%20Front-End%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🎮+Building+Games+for+PC%2C+Mobile+%26+WebGL;🌐+Crafting+Clean+Web+Experiences;⚡+Unity+%7C+C%23+%7C+HTML+%7C+CSS+%7C+JS;🚀+Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:1a0533,60:2d1b69,100:0D0D1A&height=220&section=header&text=Hi%20There!%20I'm%20Pranith%20👋&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Unity%20Game%20Developer%20%7C%20Front-End%20Developer&descAlignY=62&descSize=22&animation=fadeIn" />
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b)](https://github.com/pranith00077)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/prantih00077)
+<!-- TYPING ANIMATION — using denvercoder9 which is stable -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%F0%9F%8E%AE+Building+Games+for+PC%2C+Mobile+%26+WebGL;%F0%9F%8C%90+Crafting+Clean+Web+Experiences;%E2%9A%A1+Unity+%7C+C%23+%7C+HTML+%7C+CSS+%7C+JS;%F0%9F%9A%80+Always+Learning%2C+Always+Building" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- BADGES -->
+[![GitHub followers](https://img.shields.io/github/followers/pranith00077?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&logo=github)](https://github.com/pranith00077)
+[![Profile Views](https://komarev.com/ghpvc/?username=pranith00077&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/pranith00077)
+[![GitHub Stars](https://img.shields.io/github/stars/pranith00077?affiliations=OWNER&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&logo=github&label=Total+Stars)](https://github.com/pranith00077)
 
 </div>
+
+<br/>
 
 ---
 
 ## 👾 About Me
 
 ```yaml
-name        : Pranith
-location    : India 🇮🇳
-role        : Unity Game Developer & Front-End Developer
-focus       : PC · Mobile · WebGL Games + Responsive Web UI
-learning    : Advanced Unity Systems · WebGL Optimization
-open_to     : Collaborations · Game Jams · Open Source Projects
-fun_fact    : "I turn coffee ☕ into pixels 🎮"
+╔══════════════════════════════════════════════════════════════╗
+║                      PLAYER PROFILE                         ║
+╠══════════════════════════════════════════════════════════════╣
+  name        : Pranith
+  location    : India 🇮🇳
+  role        : Unity Game Developer & Front-End Developer
+  platforms   : PC · Mobile · WebGL
+  stack       : Unity · C# · HTML · CSS · JavaScript
+  learning    : Advanced Unity Systems · WebGL Optimization
+  open_to     : Collaborations · Game Jams · Open Source
+  fun_fact    : "I turn coffee ☕ into interactive pixels 🎮"
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+**🎮 Game Development**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![PC](https://img.shields.io/badge/PC%20Games-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/PC%20Games-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🌐 Front-End Development
+**🌐 Front-End Development**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive%20Design-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-06B6D4?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧰 Tools & Platforms
+**🧰 Tools & Platforms**
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)
 
 </div>
 
 ---
 
-## 🎮 What I Build
+## ⚔️ What I Build
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3>🕹️ Game Development</h3>
-      <ul>
-        <li>🎯 2D & 3D Unity games</li>
-        <li>📱 PC, Mobile & WebGL builds</li>
-        <li>🏃 Player movement & controls</li>
-        <li>🎵 Sound effects & background music</li>
-        <li>🗺️ Level design & layout</li>
-        <li>🖥️ Game UI, menus & HUD</li>
-        <li>⚡ Optimization & publishing</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🌐 Web Development</h3>
-      <ul>
-        <li>📐 Responsive web layouts</li>
-        <li>🎨 Clean & modern UI design</li>
-        <li>🧩 Interactive web components</li>
-        <li>📱 Mobile-first design approach</li>
-        <li>✨ Smooth animations & transitions</li>
-        <li>🔧 Semantic & accessible HTML</li>
-        <li>💡 User-friendly interfaces</li>
-      </ul>
-    </td>
+    <td width="50%" valign="top">
+
+### 🕹️ Game Development
+```
+▸ 2D & 3D Unity game projects
+▸ PC, Mobile & WebGL builds
+▸ Player movement & physics
+▸ Game UI, menus & HUD systems
+▸ Level design & world building
+▸ Sound effects & background music
+▸ Game optimization & publishing
+▸ C# scripting & game logic
+```
+
+  </td>
+    <td width="50%" valign="top">
+
+### 🌐 Web Development
+```
+▸ Responsive web page layouts
+▸ Clean & modern UI design
+▸ Interactive web components
+▸ Mobile-first design approach
+▸ Smooth CSS animations
+▸ Semantic & accessible HTML
+▸ Vanilla JS functionality
+▸ User-friendly interfaces
+```
+
+  </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Game
 
 <div align="center">
 
-[![Play My Game](https://img.shields.io/badge/🎮_PLAY_MY_GAME_NOW-FF4500?style=for-the-badge&logoColor=white&labelColor=1a1a2e)](https://unitygames.vercel.app)
+<a href="https://unitygames.vercel.app">
+  <img src="https://img.shields.io/badge/🎮%20%20PLAY%20MY%20GAME%20NOW%20%20🎮-FF4500?style=for-the-badge&logoColor=white" height="45" alt="Play My Game"/>
+</a>
 
-> *Click the badge above to launch and play my game in your browser!*
+<br/><br/>
+
+> 🕹️ *Click above to launch and play my game directly in your browser — no download needed!*
 
 </div>
 
@@ -106,12 +128,17 @@ fun_fact    : "I turn coffee ☕ into pixels 🎮"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranith00077&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranith00077&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranith00077&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranith00077&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=a78bfa&dates=888888&border_radius=12" />
+
 </div>
 
 ---
@@ -119,7 +146,15 @@ fun_fact    : "I turn coffee ☕ into pixels 🎮"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranith00077&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pranith00077&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranith00077&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&radius=12" />
 </div>
 
 ---
@@ -128,30 +163,30 @@ fun_fact    : "I turn coffee ☕ into pixels 🎮"
 
 ### 🎮 Unity Game Projects
 
-| Project | Platform | Tech | Status |
-|:--------|:--------:|:-----|:------:|
-| Game Project #1 | PC / WebGL | Unity, C# | ✅ Live |
-| Game Project #2 | Mobile | Unity, C# | ✅ Live |
-| Game Project #3 | WebGL | Unity, C# | 🔧 In Progress |
+| 🎮 Project | 🖥️ Platform | 🛠️ Tech | 🔗 Link | ✅ Status |
+|:-----------|:-----------:|:--------|:-------:|:---------:|
+| Game Project #1 | PC / WebGL | Unity · C# | [Play ▶](PASTE-LINK) | ✅ Live |
+| Game Project #2 | Mobile | Unity · C# | [View 👁](PASTE-LINK) | ✅ Live |
+| Game Project #3 | WebGL | Unity · C# | [Soon 🔧](PASTE-LINK) | 🔧 Building |
 
 ### 🌐 Front-End Projects
 
-| Project | Type | Tech | Status |
-|:--------|:----:|:-----|:------:|
-| Web Project #1 | Responsive Page | HTML, CSS, JS | ✅ Live |
-| Web Project #2 | UI Layout | HTML, CSS | ✅ Live |
-| Web Project #3 | Interactive UI | HTML, CSS, JS | 🔧 In Progress |
+| 🌐 Project | 📁 Type | 🛠️ Tech | 🔗 Link | ✅ Status |
+|:-----------|:-------:|:--------|:-------:|:---------:|
+| Web Project #1 | Responsive Page | HTML · CSS · JS | [Visit 🔗](PASTE-LINK) | ✅ Live |
+| Web Project #2 | UI Layout | HTML · CSS | [Visit 🔗](PASTE-LINK) | ✅ Live |
+| Web Project #3 | Interactive UI | HTML · CSS · JS | [Soon 🔧](PASTE-LINK) | 🔧 Building |
 
-> *Replace placeholders above with your actual project names and links!*
+> 📝 *Replace project names, descriptions, and links with your actual projects!*
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranith00077)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneet-kumar-2b5471412/)
+[![GitHub](https://img.shields.io/badge/GitHub-%40pranith00077-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranith00077)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE-LINKEDIN-LINK-HERE)
 
 </div>
 
@@ -159,14 +194,15 @@ fun_fact    : "I turn coffee ☕ into pixels 🎮"
 
 <div align="center">
 
-### 💬 Dev Quote of the Day
+### 💡 Dev Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
----
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<!-- FOOTER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:2d1b69,60:1a0533,100:0D0D1A&height=130&section=footer&animation=fadeIn" />
 
-⭐ **If you like my work, consider starring my repositories!** ⭐
+<sub>⭐ <b>Star my repositories if you find them useful!</b> · Made with ❤️ by <a href="https://github.com/pranith00077">Pranith</a></sub>
 
 </div>
