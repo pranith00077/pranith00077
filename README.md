@@ -34,7 +34,7 @@
   stack       : Unity · C# · HTML · CSS · JavaScript
   learning    : Advanced Unity Systems · WebGL Optimization
   open_to     : Collaborations · Game Jams · Open Source
-  fun_fact    : "I turn coffee ☕ into interactive pixels 🎮"
+ 
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
