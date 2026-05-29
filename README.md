@@ -165,8 +165,8 @@
 | 🎮 Project | 🖥️ Platform | 🛠️ Tech | 🔗 Link | ✅ Status |
 |:-----------|:-----------:|:--------|:-------:|:---------:|
 | FlagRaid | PC / WebGL | Unity · C# | [Play ▶](https://unitygames.vercel.app/FlagRadiWeb/index.html) | ✅ Live |
-| SlientVillage |PC / WebGL | Unity · C# | [View 👁]([Play ▶](https://unitygames.vercel.app/SilentVillage1/index.html) | ✅ Live |
-| SlientVillage |PC / WebGL | Unity · C# | [View 👁]([Play ▶](https://unitygames.vercel.app/SnookerKing/index.html) | ✅ Live |
+| SlientVillage | PC / WebGL | Unity · C# | ([Play ▶](https://unitygames.vercel.app/SilentVillage1/index.html) | ✅ Live |
+| SlientVillage | Mobile | Unity · C# | ([Play ▶](https://unitygames.vercel.app/SnookerKing/index.html) | ✅ Live |
 
 
 ### 🌐 Front-End Projects
