@@ -11,9 +11,9 @@
 <br/><br/>
 
 <!-- BADGES -->
-[![GitHub followers](https://img.shields.io/github/followers/pranith00077?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&logo=github)](https://github.com/pranith00077)
-[![Profile Views](https://komarev.com/ghpvc/?username=pranith00077&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/pranith00077)
-[![GitHub Stars](https://img.shields.io/github/stars/pranith00077?affiliations=OWNER&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&logo=github&label=Total+Stars)](https://github.com/pranith00077)
+[![GitHub](https://img.shields.io/badge/GitHub-%40pranith00077-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/pranith00077)
+[![Profile Views](https://komarev.com/ghpvc/?username=pranith00077&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=Profile+Views)](https://github.com/pranith00077)
+[![Open To Collaborate](https://img.shields.io/badge/Open%20To-Collaborate-22c55e?style=for-the-badge&logo=handshake&logoColor=white&labelColor=14532d)](https://github.com/pranith00077)
 
 </div>
 
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-<a href="https://unitygames.vercel.app">
+<a href="PASTE-YOUR-GAME-LINK-HERE">
   <img src="https://img.shields.io/badge/🎮%20%20PLAY%20MY%20GAME%20NOW%20%20🎮-FF4500?style=for-the-badge&logoColor=white" height="45" alt="Play My Game"/>
 </a>
 
@@ -186,7 +186,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40pranith00077-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranith00077)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE-LINKEDIN-LINK-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneet-kumar-2b5471412/)
 
 </div>
 
