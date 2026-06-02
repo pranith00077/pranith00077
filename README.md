@@ -170,6 +170,7 @@
 |:-----------|:-------:|:--------|:-------:|:---------:|
 | Games Website | Responsive Page | HTML · CSS · JS | [Visit 🔗](https://unitygames.vercel.app) | ✅ Live |
 | Flames Check | UI Layout | HTML · CSS | [Visit 🔗](https://flamesgame1.vercel.app/) | ✅ Live |
+| CurveCraft | UI Layout | HTML · CSS | [Visit 🔗](https://curvecraftmath.vercel.app/) | ✅ Live |
 
 
 > 📝 *Replace project names, descriptions, and links with your actual projects!*
