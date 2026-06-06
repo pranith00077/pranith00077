@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:1a0533,60:2d1b69,100:0D0D1A&height=220&section=header&text=Hi%20There!%20I'm%20Pranith%20👋&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Unity%20Game%20Developer%20%7C%20Front-End%20Developer&descAlignY=62&descSize=22&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:1a0533,60:2d1b69,100:0D0D1A&height=220&section=header&text=Hi%20There!%20I'm%20Praneeth%20👋&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Unity%20Game%20Developer%20%7C%20Front-End%20Developer&descAlignY=62&descSize=22&animation=fadeIn" />
 
 <br/>
 
